@@ -1,0 +1,1 @@
+export const workflowLayout = "workflow";
